@@ -1,4 +1,4 @@
-package abstractFactory;
+package abstractFactory.interfaces;
 
 public interface Mouse {
     void click();

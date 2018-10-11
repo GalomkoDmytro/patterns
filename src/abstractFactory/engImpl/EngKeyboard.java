@@ -5,11 +5,11 @@ import abstractFactory.interfaces.Keyboard;
 public class EngKeyboard implements Keyboard {
     @Override
     public void print() {
-        System.out.println("ru print");
+        System.out.println("eng print");
     }
 
     @Override
     public void println() {
-        System.out.println("ru println");
+        System.out.println("eng println");
     }
 }

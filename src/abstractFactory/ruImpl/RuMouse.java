@@ -2,7 +2,7 @@ package abstractFactory.ruImpl;
 
 import abstractFactory.interfaces.Mouse;
 
-public class RuMouxe implements Mouse {
+public class RuMouse implements Mouse {
     @Override
     public void click() {
         System.out.println("ru onclick");

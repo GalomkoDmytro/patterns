@@ -1,6 +1,4 @@
-package abstractFactory;
-
-import java.security.Key;
+package abstractFactory.interfaces;
 
 public interface DeviceFactory {
     Mouse getMouse();
