@@ -1,4 +1,4 @@
-package abstractFactory.watch;
+package factory.watch;
 
 public class RomeWatch implements Watch {
     @Override
