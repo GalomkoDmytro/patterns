@@ -1,4 +1,5 @@
 package decorator;
 
-public class PrinterInterface {
+public interface PrinterInterface {
+    void print();
 }
