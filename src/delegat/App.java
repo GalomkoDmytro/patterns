@@ -8,7 +8,7 @@ public class App {
 //        b.f();
 
         Painter painter = new Painter();
-        
+
         painter.setGraphic(new Square());
         painter.draw();
 
